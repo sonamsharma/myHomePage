@@ -1,0 +1,120 @@
+/*
+  Name Sonam Sharma
+Course coen276
+ assign 1
+date of submission 10/07/2011
+*/
+body {
+	background-color:black;
+	
+}
+#page-container{
+	width:1000px;
+	margin:auto;
+	background-color:#f6fefd;;
+	font-family:Arial,Helvetica,sans-serif;
+}
+.section1{
+	height:70px;
+	padding-bottom:5px;
+	background-image:url('images/square.jpg');
+		
+	}
+#text-name{
+	
+	text-align:right;
+	font-size:24pt;
+	font-family:cursive;
+	margin-right:10pt;	
+	
+	
+}
+
+
+#title{
+	font-size:16pt;
+	font-family:cursive;
+	text-align:center;
+	color:maroon;
+}
+
+#section3{
+	width:800px;
+	background-color:#c8f5f5;
+	padding:10px;
+	margin:0 auto;
+	border-style:solid;
+	border-width:medium;
+	border-color:black;
+}
+
+#section3_1{
+	width:25%;
+	background-color:#41b6c6;;
+	float:right;
+	height:auto;
+	
+}
+#section3_2{
+	width:75%;
+	background-color:#c8f5f5;
+	
+}
+#section3_1 .for-section4-5{
+	padding:25px;
+	font-size:10pt;
+	font-weight:lighter;
+}
+
+#section3_2 .for-section4-5{
+	padding:25px;
+	margin:auto;
+	text-align:center;
+	}
+.border{	
+	border-style:solid;
+	border-width:thin;
+	border-color:black;
+	padding:2px;
+	
+	
+}
+#comment{
+	width:90%;
+	background-color:#ccccff;
+	margin:auto;
+	padding-top:2px;
+	border-style:solid;
+	border-width:thin;
+	border-color:#276fe1;;
+
+}
+.likecomment1{
+	background-color:#ccccff;
+	text-align:justify;
+	font-weight:bold;
+	font-size:8pt;
+	padding-top:0px;
+	padding-bottom:5px;
+	padding-right:10px;
+	
+	
+}
+.like1{
+	float:left;
+	margin:auto;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:2px;
+	padding-right:2pt;
+	
+}
+#section6{
+	
+	height:50px;
+	text-align:right;
+	padding-right:100px;
+	padding-top:5px;
+	padding-bottom:10px;
+	
+} 
